@@ -39,7 +39,7 @@
     "rxjs": "^6.5.3",
     "rxjs-tslint": "^0.1.7",
     "ts-helpers": "^1.1.2",
-    "tslib": "^1.10.0",
+    "tslib": "^1.14.1",
     "webdriver-manager": "^12.1.7",
     "zone.js": "~0.9.1"
   },
